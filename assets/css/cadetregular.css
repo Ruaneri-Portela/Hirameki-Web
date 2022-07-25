@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'cadetregular';
+	src: url(/assets/fonts/cadet-regular-webfont.woff2?h=71d0af5ad9631fc1b8cc4a5794e23576) format('woff2'),
+	url(/assets/fonts/cadet-regular-webfont.woff?h=71d0af5ad9631fc1b8cc4a5794e23576) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
